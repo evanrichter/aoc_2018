@@ -1,0 +1,9 @@
+[package]
+name = "advent-of-code"
+version = "0.1.0"
+authors = ["evanrichter <evanjrichter@gmail.com>"]
+
+[dependencies]
+regex = "1.1.0"
+indicatif = "0.10.3"
+gif = "0.10.1"
